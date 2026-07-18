@@ -1,11 +1,13 @@
 # SlopSift agent skill
 
+[![skills.sh](https://skills.sh/b/NikhilVerma/slopsift)](https://skills.sh/NikhilVerma/slopsift)
+
 An installable agent skill for reviewing prose with the [SlopSift](https://slopsift.dev) CLI.
 
 ## Install
 
 ```bash
-bunx skills add NikhilVerma/slopsift
+npx skills add NikhilVerma/slopsift --skill slopsift
 ```
 
 The skills CLI detects supported coding agents and installs the `slopsift` skill for the selected environment.
