@@ -4,6 +4,10 @@
 
 An installable agent skill for reviewing prose with the [SlopSift](https://slopsift.dev) CLI.
 
+SlopSift was created by [Nikhil Verma](https://nikhil-verma.com/about/). Try the
+[live, local-first editor](https://slopsift.dev/), or explore the underlying
+[WritingLint source](https://github.com/NikhilVerma/writinglint).
+
 ## Install
 
 ```bash
